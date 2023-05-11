@@ -1,6 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/PKw3guDu)
-# assignments14-template
+Deze repository is gebruikt om de opdrachten van de 1e 4 lessen uit te kunnen voeren. 
 
-Deze repository wordt gebruikt om lokaal de opdrachten van de 1e 4 lessen uit te kunnen voeren. 
+[![Uitwerking opdracht 1.1](https://img.youtube.com/vi/uG7sKPP7BzU/default.jpg)](https://www.youtube.com/uG7sKPP7BzU)
 
-Veel succes!
